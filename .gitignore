@@ -1,0 +1,13 @@
+# Ignore node_modules
+/node_modules/public/packs
+/public/packs-test
+/public/packs
+/public/assets
+/node_modules
+yarn-debug.log*
+yarn-error.log*
+.yarn-integrity
+package-lock.json
+.env
+.vscode/
+.idea/
